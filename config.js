@@ -42,33 +42,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/RyhnXD'
+global.sig = 'https://instagram.com/karfuanyogich'
+global.sgh = 'https://github.com/FlawZX'
 global.sgc = 'https://chat.whatsapp.com/IJ5wIhRoB4i5d89Av7QWNq'
-global.sdc = 'https://github.com/RyhnXD'
+global.sdc = 'https://github.com/FlawZX'
 global.stg = 'wa.me/6289524208209'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '089510598381'
+global.povo = '089510598381'
+global.pgopay = '089510598381'
+global.ppulsa = '089510598381'
+global.ppulsa2 = '089510598381'
+global.psaweria = 'https://saweria.co/yogzkyz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281779211748'
-global.nomorown = '6289524208209'
-global.namebot = 'ᴍɪᴋᴏᴛᴏ'
-global.nameown = 'ʜᴀɴ'
+global.nomorbot = '6289580116010'
+global.nomorown = '6289510598381'
+global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.nameown = 'YogzFX'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289524208209'],
-  ['6289524208209'],
-  ['6289524208209'],
-  ['6289524208209', 'ʜᴀɴ', true]
+  ['6289510598381'],
+  ['6289510598381'],
+  ['6289510598381'],
+  ['6289510598381', 'Yogi Gamteng:v', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,20 +113,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ᴍɪᴋᴏᴛᴏ' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ👋'
-global.wm3 = '☘︎ ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ'
+global.wm = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛👋'
+global.wm3 = '☘︎ 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ʜᴀɴᴢ' 
+global.author = 'YogzFX' 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
+global.thumb = 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg'
+global.giflogo = 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg'
+global.thumbs = ['https://telegra.ph/file/9afce15b2f783eeb1c647.jpg', 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg', 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg', 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -151,7 +151,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumbdoc = 'https://telegra.ph/file/9afce15b2f783eeb1c647.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -179,8 +179,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴅɪ ʙᴜᴀᴛ ᴏʟᴇʜ'
-global.stickauth = `☘︎ ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ`
+global.stickpack = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.stickauth = `@YogzFX`
 
 global.multiplier = 38 // The higher, The harder levelup
 
